@@ -1,10 +1,10 @@
 **Olá, eu sou Samuel Sávio!** 👋
 
-Bem-vindo ao meu perfil do GitHub! Tenho 24 anos e sou um entusiasta da tecnologia atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas. Estou em uma jornada de aprendizado contínuo e estou focado em aprimorar minhas habilidades em programação, especialmente em Python. Meu objetivo é me destacar no mercado de trabalho como um desenvolvedor versátil e habilidoso.
+Bem-vindo ao meu perfil do GitHub! Tenho 24 anos e sou um entusiasta da tecnologia atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas. Estou em uma jornada de aprendizado contínuo e estou focado em aprimorar minhas habilidades em programação, especialmente em Javascript, HTML5 e CSS. Meu objetivo é me destacar no mercado de trabalho como um desenvolvedor versátil e habilidoso.
 
 ### Sobre mim:
 - 🎓 Atualmente sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 💻 Estou aprendendo Python e estou animado para explorar outras linguagens de programação no futuro.
+- 💻 Estou aprendendo Javascript e estou animado para explorar outras linguagens de programação no futuro.
 - 📚 Antes de me aventurar no mundo da programação, eu cursava Letras com Habilitação em Inglês.
 - ⚡ Fun Fact: Caí de paraquedas no mundo da programação e estou apaixonado por essa nova jornada!
 
