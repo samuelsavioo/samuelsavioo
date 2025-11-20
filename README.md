@@ -48,8 +48,7 @@ Atualmente, meu foco principal é o **Back-end** com o ecossistema PHP. No meu d
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsavioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 > **Nota:** Lembre-se de trocar "SEU_USUARIO_AQUI" pelo seu usuário real do GitHub no código acima para os gráficos aparecerem!
