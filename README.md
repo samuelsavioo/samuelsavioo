@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samuel-sávio-martins-gomes-1b275227b">
+  <a href="https://www.linkedin.com/in/samuelsavioo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -51,7 +51,6 @@ Atualmente, meu foco principal é o **Back-end** com o ecossistema PHP. No meu d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsavioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-> **Nota:** Lembre-se de trocar "SEU_USUARIO_AQUI" pelo seu usuário real do GitHub no código acima para os gráficos aparecerem!
 
 ---
 
@@ -60,7 +59,7 @@ Atualmente, meu foco principal é o **Back-end** com o ecossistema PHP. No meu d
 Estou sempre aberto a trocar ideias sobre **PHP, boas práticas de código e desenvolvimento de carreira**.
 
 * 📱 **WhatsApp:** +55 (31) 992215021
-* 🔗 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/samuel-sávio-martins-gomes-1b275227b)
+* 🔗 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/samuelsavioo/)
 
 ---
 <div align="center">
