@@ -1,6 +1,6 @@
 # Samuel Sávio Martins Gomes
 Belo Horizonte – MG | (31) 99221-5021 | samueelsavio@gmail.com
-Linkedin: linkedin.com/in/samuel-sávio-martins-gomes-1b275227b | GitHub: github.com/samuelsavioo
+Linkedin: linkedin.com/in/samuelsavioo | GitHub: github.com/samuelsavioo
 
 ### 🎯 OBJETIVO
 Atuar como Desenvolvedor Web (Júnior) ou Estagiário, aplicando conhecimentos em PHP (CakePHP), banco de dados e boas práticas de engenharia de software para criar soluções eficientes.
@@ -53,3 +53,4 @@ Script em Python integrado ao MySQL para automação de respostas de e-mail (Em 
 ### 🌐 IDIOMAS
 * **Português:** Nativo
 * **Inglês:** Intermediário (Boa leitura técnica e escrita)
+
